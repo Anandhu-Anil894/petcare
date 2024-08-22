@@ -1,0 +1,69 @@
+#row{
+    width: 100%;
+    height: 600px;
+    /* background-color: blueviolet; */
+    background-image: url("https://cdn.mos.cms.futurecdn.net/ASHH5bDmsp6wnK6mEfZdcU.jpg");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    
+}
+.col{
+    width: 400px;
+    height: 300px;
+    background-color:whitesmoke;
+    margin-top: 100px;
+    margin-left: 100px;
+    position: absolute;
+    border-radius: 7px;
+
+}
+#row1{
+    width: 100%;
+    height: 500px;
+    background-color: whitesmoke;
+    position: relative;
+}
+.col1{
+    width: 500px;
+    height: 400px;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 800px;
+}
+.cols{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtMRcJ4QK-mk5-wEaQ3wp9S3L1HRNmRXd2-Q&s");
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 80px;
+    margin-left: 200px;
+}
+#row2{
+    width: 100%;
+    height: 500px;
+    background-color: whitesmoke;
+    position: relative;
+}
+.col2{
+    width: 500px;
+    height: 400px;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 200px;
+}
+
+.cols1{
+    background-image: url("https://www.globalgiving.org/pfil/51176/ph_51176_232049.jpg");
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 80px;
+    margin-left: 800px;
+}
+
+
+
+
